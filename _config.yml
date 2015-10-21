@@ -1,6 +1,6 @@
 name: olaf
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.8471308455336839
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: shares
     item: null
     url: null
+typography_spectrum: 0.5889412616379559
